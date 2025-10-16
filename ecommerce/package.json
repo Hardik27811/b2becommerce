@@ -23,8 +23,12 @@
     "react-toastify": "^11.0.5",
     "recharts": "^3.2.1",
     "redux": "^5.0.1",
+<<<<<<< HEAD
     "remixicon": "^4.6.0",
     "toastify": "^2.0.1"
+=======
+    "remixicon": "^4.6.0"
+>>>>>>> e0541137e42f9636db8b890f8b335190aa28fd22
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
