@@ -6,16 +6,18 @@ import { FaBell, FaEnvelope, FaUserCircle } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <header className={styles.header}>
+<div>
+      {/* <header className={styles.header}>
       <div className={styles.searchBar}>
         <input type="text" placeholder="Search orders, products, buyers..." />
       </div>
       <div className={styles.headerIcons}>
-        {/* <FaBell  className={styles.icons}/>
-        <FaEnvelope className={styles.icons}/> */}
+        <FaBell  className={styles.icons}/>
+        <FaEnvelope className={styles.icons}/>
         <div className={styles.icons}><FaUserCircle /><span>Himanshu</span></div>
       </div>
-    </header>
+    </header> */}
+</div>
   );
 };
 
